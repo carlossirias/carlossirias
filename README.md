@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<p align="center"><strong>A passionate fullstack developer from Nicaragua</strong></p>
+<h3 align="center">A passionate fullstack developer from Nicaragua</h3>
 
 ###
 
